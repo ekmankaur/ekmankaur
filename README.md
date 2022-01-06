@@ -11,4 +11,4 @@ I am always trying to grow and learn something new. I commit to learning at leas
 Currently improving my foundation web development skills and on a journey to learn full stack development while pursuing my education. 
 
 ### Find me elsewhere 🔗
-[![Linkedin Badge] https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ekman-kaur/)
+**[LinkedIN](https://www.linkedin.com/in/ekman-kaur/)**
